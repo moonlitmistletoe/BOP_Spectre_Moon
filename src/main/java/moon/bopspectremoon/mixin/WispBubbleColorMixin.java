@@ -1,16 +1,16 @@
 
 package moon.bopspectremoon.mixin;
 
-import biomesoplenty.particle.WispBubbleParticle;
+import biomesoplenty.particle.PusParticle;
 import net.minecraft.client.multiplayer.ClientLevel;
-import net.minecraft.core.particles.SimpleParticleType;
 import net.minecraft.client.particle.Particle;
+import net.minecraft.core.particles.SimpleParticleType;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfoReturnable;
 
-@Mixin(value = WispBubbleParticle.Provider.class, remap = false)
+@Mixin(value = PusParticle.Provider.class, remap = false)
 public abstract class WispBubbleColorMixin {
 
     @Inject(
@@ -18,7 +18,7 @@ public abstract class WispBubbleColorMixin {
             at = @At("RETURN"),
             remap = false
     )
-    private void recolorWispBubble(
+    private void bopSpectreMoon$recolorPusBubble(
             SimpleParticleType type,
             ClientLevel level,
             double x, double y, double z,
@@ -27,7 +27,11 @@ public abstract class WispBubbleColorMixin {
     ) {
         Particle particle = cir.getReturnValue();
         if (particle != null) {
-            particle.setColor(85.0F / 255.0F, 242.0F / 255.0F, 230.0F / 255.0F);
+            particle.setColor(
+                    85.0F / 255.0F,
+                    242.0F / 255.0F,
+                    230.0F / 255.0F
+            );
         }
     }
 }
