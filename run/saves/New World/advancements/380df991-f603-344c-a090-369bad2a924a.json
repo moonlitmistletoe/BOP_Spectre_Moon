@@ -1,17 +1,4 @@
 {
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2026-10-12 20:22:31 +0100",
-      "minecraft:warped_forest": "2026-10-12 20:22:59 +0100"
-    },
-    "done": false
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2026-10-12 20:22:31 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2026-10-12 20:22:14 +0100"
@@ -25,21 +12,15 @@
     },
     "done": false
   },
-  "minecraft:nether/root": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "entered_nether": "2026-10-12 20:22:31 +0100"
+      "snowy_fir_clearing": "2026-10-12 20:22:17 +0100"
     },
     "done": true
   },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2026-10-12 20:22:21 +0100"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "snowy_fir_clearing": "2026-10-12 20:22:17 +0100"
     },
     "done": true
   },
@@ -52,6 +33,25 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2026-10-12 20:22:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2026-10-12 20:22:31 +0100",
+      "minecraft:warped_forest": "2026-10-12 20:22:59 +0100"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2026-10-12 20:22:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2026-10-12 20:22:31 +0100"
     },
     "done": true
   },

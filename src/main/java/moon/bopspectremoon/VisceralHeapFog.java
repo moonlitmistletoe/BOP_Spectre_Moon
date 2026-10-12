@@ -1,5 +1,6 @@
  package moon.bopspectremoon;
 
+import net.minecraft.client.Minecraft;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.resources.ResourceKey;
@@ -8,12 +9,12 @@ import net.minecraft.world.level.biome.Biome;
 import net.neoforged.api.distmarker.Dist;
 import net.neoforged.bus.api.SubscribeEvent;
 import net.neoforged.fml.common.EventBusSubscriber;
-import net.minecraft.client.Minecraft;
 import net.neoforged.neoforge.client.event.ViewportEvent;
 
 @EventBusSubscriber(
         modid = "bop_spectre_moon",
-        value = Dist.CLIENT
+        value = Dist.CLIENT,
+        bus = EventBusSubscriber.Bus.GAME
 )
 public final class VisceralHeapFog {
     private static final ResourceKey<Biome> VISCERAL_HEAP =
@@ -23,6 +24,8 @@ public final class VisceralHeapFog {
                             "biomesoplenty", "visceral_heap"
                     )
             );
+
+    private VisceralHeapFog() {}
 
     @SubscribeEvent
     public static void onFogColor(ViewportEvent.ComputeFogColor event) {

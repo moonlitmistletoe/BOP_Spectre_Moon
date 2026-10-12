@@ -5,7 +5,9 @@
   "compatibilityLevel": "JAVA_21",
   "refmap": "bop_spectre_moon.refmap.json",
   "client": [
-    "BloodParticleColorMixin"
+    "BloodHangColorMixin",
+    "BloodFallColorMixin",
+    "BloodLandColorMixin"
   ],
   "injectors": {
     "defaultRequire": 1
