@@ -7,9 +7,8 @@
   "client": [
     "BloodHangColorMixin",
     "BloodFallColorMixin",
-    "BloodLandColorMixin"
+    "BloodLandColorMixin",
+    "TextureSheetParticleAccessor"
   ],
-  "injectors": {
-    "defaultRequire": 1
-  }
+  "injectors": { "defaultRequire": 1 }
 }
