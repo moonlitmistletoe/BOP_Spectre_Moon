@@ -8,6 +8,7 @@
     "BloodHangColorMixin",
     "BloodFallColorMixin",
     "BloodLandColorMixin",
+    "WispBubbleColorMixin",
     "TextureSheetParticleAccessor"
   ],
   "injectors": {
