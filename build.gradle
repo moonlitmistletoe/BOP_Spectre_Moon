@@ -17,11 +17,11 @@ repositories {
 }
 
 dependencies {
-    compileOnly files('run/mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar')
+    // Compile-time target classes for the Mixin annotation processor; BOP remains a runtime mod dependency.
+    compileOnly files('libs/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar')
     compileOnly 'org.spongepowered:mixin:0.8.7'
     annotationProcessor 'org.spongepowered:mixin:0.8.7:processor'
 }
-
 
 neoForge {
     version = '21.1.248'

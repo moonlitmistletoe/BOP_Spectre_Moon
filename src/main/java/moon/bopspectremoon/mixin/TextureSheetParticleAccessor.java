@@ -1,3 +1,4 @@
+
 package moon.bopspectremoon.mixin;
 
 import net.minecraft.client.particle.TextureSheetParticle;
@@ -7,6 +8,6 @@ import org.spongepowered.asm.mixin.gen.Invoker;
 
 @Mixin(TextureSheetParticle.class)
 public interface TextureSheetParticleAccessor {
-    @Invoker("setSprite")
+    @Invoker(value = "setSprite", remap = false)
     void bopSpectreMoon$invokeSetSprite(TextureAtlasSprite sprite);
 }

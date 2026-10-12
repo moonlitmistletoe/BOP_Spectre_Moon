@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+MixinConfigs: bop_spectre_moon.mixins.json
+Specification-Title: BOP_Spectre_Moon
+Specification-Version: 1.0.0
+Implementation-Title: BOP_Spectre_Moon
+Implementation-Version: 1.0.0

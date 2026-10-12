@@ -30,3 +30,6 @@ type="required"
 versionRange="[21.1.0.14,21.1.0.15)"
 ordering="AFTER"
 side="CLIENT"
+
+[[mixins]]
+config="bop_spectre_moon.mixins.json"
