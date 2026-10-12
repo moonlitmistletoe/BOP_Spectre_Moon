@@ -7,6 +7,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "undergrowth": "2026-10-12 22:12:10 +0100",
       "visceral_heap": "2026-10-12 20:22:42 +0100",
       "snowy_fir_clearing": "2026-10-12 20:22:17 +0100"
     },
@@ -38,7 +39,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2026-10-12 22:12:51 +0100",
       "minecraft:soul_sand_valley": "2026-10-12 20:22:31 +0100",
+      "minecraft:nether_wastes": "2026-10-12 22:10:20 +0100",
       "minecraft:warped_forest": "2026-10-12 20:22:59 +0100"
     },
     "done": false
@@ -52,6 +55,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2026-10-12 20:22:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2026-10-12 22:11:36 +0100"
     },
     "done": true
   },

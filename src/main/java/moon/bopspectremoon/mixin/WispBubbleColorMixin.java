@@ -25,10 +25,9 @@ public abstract class WispBubbleColorMixin {
             double xd, double yd, double zd,
             CallbackInfoReturnable<Particle> cir
     ) {
-        cir.getReturnValue().setColor(
-                0x55 / 255.0F,
-                0xF2 / 255.0F,
-                0xE6 / 255.0F
-        );
+        Particle particle = cir.getReturnValue();
+        if (particle != null) {
+            particle.setColor(85.0F / 255.0F, 242.0F / 255.0F, 230.0F / 255.0F);
+        }
     }
 }
