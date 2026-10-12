@@ -1,0 +1,32 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="bop_spectre_moon"
+version="1.0.0"
+displayName="BOP_Spectre_Moon"
+authors="Moon"
+description='''Client-side Spectre theme for Biomes O' Plenty. Bundles the BOP_Spectre_Moon resource pack and recolours hanging, falling, and landing blood particles to ectoplasm cyan.'''
+displayTest="IGNORE_SERVER_VERSION"
+
+[[dependencies.bop_spectre_moon]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.bop_spectre_moon]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="CLIENT"
+
+[[dependencies.bop_spectre_moon]]
+modId="biomesoplenty"
+type="required"
+versionRange="[21.1.0.14,21.1.0.15)"
+ordering="AFTER"
+side="CLIENT"

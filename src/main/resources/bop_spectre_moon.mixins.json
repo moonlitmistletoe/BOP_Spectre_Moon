@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "moon.bopspectremoon.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "refmap": "bop_spectre_moon.refmap.json",
+  "client": [
+    "BloodParticleColorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
