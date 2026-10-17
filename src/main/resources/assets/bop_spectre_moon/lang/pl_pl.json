@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "Dostępność QFS",
+  "bop_spectre_moon.screen.button": "Dostępność QFS...",
+  "bop_spectre_moon.screen.reload_note": "Naciśnięcie Gotowe przeładowuje zasoby (może to chwilę potrwać)",
+  "bop_spectre_moon.option.ectoplasm_blood": "Cyjanowa krew",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "Krew i mięso z Biomes O' Plenty wyglądają jak cyjanowa ektoplazma.",
+  "bop_spectre_moon.option.vanilla_mob_skins": "Waniliowe skórki mobów",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "Moby Cucurucho i Mroczne Cucurucho używają waniliowych skórek.",
+  "bop_spectre_moon.option.friendly_spiders": "Przyjazne pająki",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "Pająki wyglądają jak szlamy z fioletowymi iskrami i brzmią jak koty.",
+  "bop_spectre_moon.option.friendly_bugs": "Przyjazne robaki",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "Robaki, takie jak karaluchy, stonogi i rybiki, wyglądają jak małe szlamy i brzmią ciszej.",
+  "bop_spectre_moon.option.smooth_holes": "Tekstury bez dziur",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "Gąbki, plastry miodu i inne bloki pełne dziur lub bąbelków wyglądają gładko.",
+  "bop_spectre_moon.option.sound_limiter": "Ogranicznik głośnych dźwięków",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "Dźwięki mobów i pogody ściszają się na kilka sekund, gdy zabrzmi głośny dźwięk, a potem wracają."
+}

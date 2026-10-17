@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "Доступність QFS",
+  "bop_spectre_moon.screen.button": "Доступність QFS...",
+  "bop_spectre_moon.screen.reload_note": "Після натискання «Готово» ресурси перезавантажуються (це може зайняти трохи часу)",
+  "bop_spectre_moon.option.ectoplasm_blood": "Блакитна кров",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "Кров і плоть із Biomes O' Plenty відображаються як блакитна ектоплазма.",
+  "bop_spectre_moon.option.vanilla_mob_skins": "Ванільні скіни мобів",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "Моби Cucurucho та Темний Cucurucho використовують ванільні скіни.",
+  "bop_spectre_moon.option.friendly_spiders": "Дружні павуки",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "Павуки виглядають як слизи з фіолетовими іскрами та звучать як коти.",
+  "bop_spectre_moon.option.friendly_bugs": "Дружні комахи",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "Комахи на кшталт тарганів, багатоніжок і сріблястих рибок виглядають як маленькі слизи та звучать тихіше.",
+  "bop_spectre_moon.option.smooth_holes": "Текстури без дірок",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "Губки, соти та інші блоки з дірками чи бульбашками виглядають гладкими.",
+  "bop_spectre_moon.option.sound_limiter": "Обмежувач гучних звуків",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "Звуки мобів і погоди на кілька секунд стають тихішими, коли лунає гучний звук, а потім повертаються."
+}

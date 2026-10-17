@@ -1,6 +1,7 @@
 
 package moon.bopspectremoon.mixin;
 
+import moon.bopspectremoon.AccessibilityConfig;
 import biomesoplenty.particle.PusParticle;
 import net.minecraft.client.multiplayer.ClientLevel;
 import net.minecraft.client.particle.Particle;
@@ -26,7 +27,7 @@ public abstract class WispBubbleColorMixin {
             CallbackInfoReturnable<Particle> cir
     ) {
         Particle particle = cir.getReturnValue();
-        if (particle != null) {
+        if (particle != null && AccessibilityConfig.ectoplasmBlood()) {
             particle.setColor(
                     85.0F / 255.0F,
                     242.0F / 255.0F,

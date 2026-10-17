@@ -1,0 +1,67 @@
+{
+  "gammaroach_idle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "gammaroach_hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.hurt_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "gammaroach_death": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.death_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "gammaroach_attack": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "gammaroach_spray": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "gammaroach_step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.3
+      }
+    ]
+  }
+}

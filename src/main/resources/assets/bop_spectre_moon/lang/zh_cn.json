@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "QFS 无障碍",
+  "bop_spectre_moon.screen.button": "QFS 无障碍...",
+  "bop_spectre_moon.screen.reload_note": "按下“完成”将重新加载资源（可能需要一点时间）",
+  "bop_spectre_moon.option.ectoplasm_blood": "青色血液",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "Biomes O' Plenty 的血液和血肉显示为青色灵质。",
+  "bop_spectre_moon.option.vanilla_mob_skins": "原版生物皮肤",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "Cucurucho 和暗黑 Cucurucho 生物使用原版皮肤。",
+  "bop_spectre_moon.option.friendly_spiders": "友好蜘蛛",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "蜘蛛显示为带有紫色火花的史莱姆，声音像猫。",
+  "bop_spectre_moon.option.friendly_bugs": "友好虫子",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "蟑螂、蜈蚣和蠹虫等虫子显示为小史莱姆，声音更轻柔。",
+  "bop_spectre_moon.option.smooth_holes": "无孔纹理",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "海绵、蜂巢等布满孔洞或气泡的方块显示为平滑。",
+  "bop_spectre_moon.option.sound_limiter": "巨响限制器",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "播放巨大声响时，生物和天气音效会降低几秒，然后恢复。"
+}

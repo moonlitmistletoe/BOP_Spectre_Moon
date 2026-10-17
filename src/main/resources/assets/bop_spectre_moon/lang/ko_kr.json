@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "QFS 접근성",
+  "bop_spectre_moon.screen.button": "QFS 접근성...",
+  "bop_spectre_moon.screen.reload_note": "완료를 누르면 리소스를 다시 불러옵니다 (잠시 걸릴 수 있습니다)",
+  "bop_spectre_moon.option.ectoplasm_blood": "청록색 피",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "Biomes O' Plenty의 피와 살이 청록색 심령체로 표시됩니다.",
+  "bop_spectre_moon.option.vanilla_mob_skins": "바닐라 몹 스킨",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "Cucurucho와 Dark Cucurucho 몹이 바닐라 스킨을 사용합니다.",
+  "bop_spectre_moon.option.friendly_spiders": "친근한 거미",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "거미가 보라색 불꽃이 나는 슬라임으로 보이고 고양이 소리를 냅니다.",
+  "bop_spectre_moon.option.friendly_bugs": "친근한 벌레",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "바퀴벌레, 지네, 좀벌레 같은 벌레가 작은 슬라임으로 보이고 소리도 부드러워집니다.",
+  "bop_spectre_moon.option.smooth_holes": "구멍 없는 텍스처",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "스펀지, 벌집 등 구멍이나 거품이 가득한 블록이 매끄럽게 표시됩니다.",
+  "bop_spectre_moon.option.sound_limiter": "큰 소리 제한기",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "큰 소리가 날 때 몹과 날씨 소리가 몇 초 동안 줄었다가 다시 커집니다."
+}

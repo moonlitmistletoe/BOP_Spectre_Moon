@@ -4,10 +4,10 @@ license="All Rights Reserved"
 
 [[mods]]
 modId="bop_spectre_moon"
-version="1.0.0"
+version="1.1.0"
 displayName="BOP_Spectre_Moon"
 authors="Moon"
-description='''Client-side Spectre theme for Biomes O' Plenty. Bundles the BOP_Spectre_Moon resource pack and recolours hanging, falling, and landing blood particles to ectoplasm cyan.'''
+description='''Client-side QFS accessibility options: ectoplasm cyan blood, vanilla skins for the Cucurucho mobs, and friendly spiders. Each option can be switched on or off from Options > Accessibility.'''
 displayTest="IGNORE_SERVER_VERSION"
 
 [[dependencies.bop_spectre_moon]]
@@ -30,6 +30,13 @@ type="required"
 versionRange="[21.1.0.14,21.1.0.15)"
 ordering="AFTER"
 side="CLIENT"
+
+[[dependencies.bop_spectre_moon]]
+modId="qfs3_collision_guard"
+type="required"
+versionRange="[0.3.84,)"
+ordering="NONE"
+side="BOTH"
 
 [[mixins]]
 config="bop_spectre_moon.mixins.json"

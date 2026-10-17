@@ -1,0 +1,46 @@
+{
+  "entity.spider.ambient": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.cat.ambient",
+        "type": "event",
+        "volume": 0.6,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.spider.hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.cat.hurt",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.spider.death": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.cat.death",
+        "type": "event",
+        "volume": 1.0,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.spider.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.3,
+        "pitch": 1.0
+      }
+    ]
+  }
+}

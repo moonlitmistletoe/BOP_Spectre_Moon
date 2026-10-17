@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "Accessibilité QFS",
+  "bop_spectre_moon.screen.button": "Accessibilité QFS...",
+  "bop_spectre_moon.screen.reload_note": "Appuyer sur Terminé recharge les ressources (cela peut prendre un moment)",
+  "bop_spectre_moon.option.ectoplasm_blood": "Sang cyan",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "Le sang et la chair de Biomes O' Plenty apparaissent sous forme d'ectoplasme cyan.",
+  "bop_spectre_moon.option.vanilla_mob_skins": "Apparences vanilla des mobs",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "Les mobs Cucurucho et Cucurucho sombre utilisent leurs apparences vanilla.",
+  "bop_spectre_moon.option.friendly_spiders": "Araignées amicales",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "Les araignées apparaissent sous forme de slimes avec des étincelles violettes et miaulent comme des chats.",
+  "bop_spectre_moon.option.friendly_bugs": "Insectes amicaux",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "Les insectes comme les cafards, les mille-pattes et les poissons d'argent apparaissent sous forme de petits slimes et font moins de bruit.",
+  "bop_spectre_moon.option.smooth_holes": "Textures sans trous",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "Les éponges, les nids d'abeilles et les autres blocs couverts de trous ou de bulles apparaissent lisses.",
+  "bop_spectre_moon.option.sound_limiter": "Limiteur de sons forts",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "Les sons des mobs et de la météo baissent quelques secondes quand un son fort retentit, puis remontent."
+}

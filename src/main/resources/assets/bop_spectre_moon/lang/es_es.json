@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "Accesibilidad de QFS",
+  "bop_spectre_moon.screen.button": "Accesibilidad de QFS...",
+  "bop_spectre_moon.screen.reload_note": "Al pulsar Hecho se recargan los recursos (puede tardar un momento)",
+  "bop_spectre_moon.option.ectoplasm_blood": "Sangre cian",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "La sangre y la carne de Biomes O' Plenty se ven como ectoplasma cian.",
+  "bop_spectre_moon.option.vanilla_mob_skins": "Pieles de mobs vanilla",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "Los mobs Cucurucho y Cucurucho Oscuro usan pieles vanilla.",
+  "bop_spectre_moon.option.friendly_spiders": "Arañas amigables",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "Las arañas se ven como slimes con destellos morados y suenan como gatos.",
+  "bop_spectre_moon.option.friendly_bugs": "Bichos amigables",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "Bichos como cucarachas, ciempiés y lepismas se ven como slimes pequeños y suenan más suaves.",
+  "bop_spectre_moon.option.smooth_holes": "Texturas sin agujeros",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "Las esponjas, los panales y otros bloques llenos de agujeros o burbujas se ven lisos.",
+  "bop_spectre_moon.option.sound_limiter": "Limitador de sonidos fuertes",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "Los sonidos de mobs y del clima bajan unos segundos cuando suena algo fuerte y luego suben de nuevo."
+}

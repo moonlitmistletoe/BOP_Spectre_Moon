@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "QFS Erişilebilirlik",
+  "bop_spectre_moon.screen.button": "QFS Erişilebilirlik...",
+  "bop_spectre_moon.screen.reload_note": "Bitti'ye basmak kaynakları yeniden yükler (biraz zaman alabilir)",
+  "bop_spectre_moon.option.ectoplasm_blood": "Camgöbeği Kan",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "Biomes O' Plenty kanı ve eti camgöbeği ektoplazma olarak görünür.",
+  "bop_spectre_moon.option.vanilla_mob_skins": "Vanilla Yaratık Görünümleri",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "Cucurucho ve Karanlık Cucurucho yaratıkları vanilla görünümleri kullanır.",
+  "bop_spectre_moon.option.friendly_spiders": "Dost Örümcekler",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "Örümcekler mor kıvılcımlı balçık olarak görünür ve kedi gibi ses çıkarır.",
+  "bop_spectre_moon.option.friendly_bugs": "Dost Böcekler",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "Hamam böceği, kırkayak ve gümüş balığı gibi böcekler küçük balçık olarak görünür ve daha yumuşak ses çıkarır.",
+  "bop_spectre_moon.option.smooth_holes": "Deliksiz Dokular",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "Süngerler, bal peteği ve delik ya da baloncuklarla kaplı diğer bloklar pürüzsüz görünür.",
+  "bop_spectre_moon.option.sound_limiter": "Yüksek Ses Sınırlayıcı",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "Yüksek bir ses çaldığında yaratık ve hava durumu sesleri birkaç saniye kısılır, sonra geri yükselir."
+}

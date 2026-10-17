@@ -9,7 +9,9 @@
     "BloodFallColorMixin",
     "BloodLandColorMixin",
     "WispBubbleColorMixin",
-    "TextureSheetParticleAccessor"
+    "TextureSheetParticleAccessor",
+    "SoundEngineMixin",
+    "EntityRenderDispatcherMixin"
   ],
   "injectors": {
     "defaultRequire": 1

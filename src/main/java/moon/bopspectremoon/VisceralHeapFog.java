@@ -31,7 +31,7 @@ public final class VisceralHeapFog {
     public static void onFogColor(ViewportEvent.ComputeFogColor event) {
         Minecraft minecraft = Minecraft.getInstance();
 
-        if (minecraft.level == null) {
+        if (minecraft.level == null || !AccessibilityConfig.ectoplasmBlood()) {
             return;
         }
 

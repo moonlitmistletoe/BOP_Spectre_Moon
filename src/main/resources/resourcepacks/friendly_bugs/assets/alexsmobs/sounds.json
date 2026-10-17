@@ -1,0 +1,141 @@
+{
+  "fly_idle": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "fly_hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.hurt_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "mosquito_loop": {
+    "replace": true,
+    "sounds": []
+  },
+  "mosquito_hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.hurt_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "mosquito_die": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.death_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "centipede_walk": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.3
+      }
+    ]
+  },
+  "centipede_hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.hurt_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "centipede_attack": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "cockroach_hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.hurt_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "leafcutter_ant_hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.hurt_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "leafcutter_ant_queen_hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.hurt_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "tarantula_hawk_wing": {
+    "replace": true,
+    "sounds": []
+  },
+  "tarantula_hawk_hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.hurt_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "mosquito_capsid_convert": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.0
+      }
+    ]
+  }
+}
