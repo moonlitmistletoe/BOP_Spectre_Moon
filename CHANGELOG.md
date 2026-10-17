@@ -9,7 +9,6 @@
 - Added Hole-Free Textures: sponges, honeycomb, barnacles, porous blocks and similar textures lose their holes and bubbles.
 - Added the Loud Sound Limiter: mob and weather sounds turn down when a loud sound starts and rise back over about three seconds, without touching the volume sliders.
 - The mod's assets moved into built-in resource packs under `resourcepacks/`, combined into one pack named QFS Accessibility.
-- The mod now requires `qfs3_collision_guard` 0.3.84 or newer.
 - The accessibility screen is translated into 16 languages.
 - Options are saved in `config/bop_spectre_moon-client.toml`.
 
