@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "QFS-toegankelijkheid",
+  "bop_spectre_moon.screen.button": "QFS-toegankelijkheid...",
+  "bop_spectre_moon.screen.reload_note": "Als je op Klaar drukt, worden de bronnen opnieuw geladen (dit kan even duren)",
+  "bop_spectre_moon.option.ectoplasm_blood": "Cyaan bloed",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "Bloed en vlees van Biomes O' Plenty worden getoond als cyaan ectoplasma.",
+  "bop_spectre_moon.option.vanilla_mob_skins": "Vanilla-mobskins",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "De mobs Cucurucho en Donkere Cucurucho gebruiken vanilla-skins.",
+  "bop_spectre_moon.option.friendly_spiders": "Vriendelijke spinnen",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "Spinnen worden getoond als slijmen met paarse vonken en klinken als katten.",
+  "bop_spectre_moon.option.friendly_bugs": "Vriendelijke insecten",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "Insecten zoals kakkerlakken, duizendpoten en zilvervisjes worden getoond als kleine slijmen en klinken zachter.",
+  "bop_spectre_moon.option.smooth_holes": "Texturen zonder gaten",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "Sponzen, honingraten en andere blokken vol gaten of bellen worden glad getoond.",
+  "bop_spectre_moon.option.sound_limiter": "Begrenzer voor harde geluiden",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "Mob- en weergeluiden worden een paar seconden zachter als er een hard geluid klinkt en worden daarna weer luider."
+}

@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "QFS アクセシビリティ",
+  "bop_spectre_moon.screen.button": "QFS アクセシビリティ...",
+  "bop_spectre_moon.screen.reload_note": "「完了」を押すとリソースが再読み込みされます (少し時間がかかる場合があります)",
+  "bop_spectre_moon.option.ectoplasm_blood": "シアンの血",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "Biomes O' Plentyの血と肉がシアン色のエクトプラズムで表示されます。",
+  "bop_spectre_moon.option.vanilla_mob_skins": "バニラのモブスキン",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "CucuruchoとDark Cucuruchoのモブがバニラのスキンを使います。",
+  "bop_spectre_moon.option.friendly_spiders": "やさしいクモ",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "クモが紫色の火花をまとったスライムの姿になり、ネコのような鳴き声になります。",
+  "bop_spectre_moon.option.friendly_bugs": "やさしい虫",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "ゴキブリ、ムカデ、シルバーフィッシュなどの虫が小さなスライムの姿になり、音もやわらぎます。",
+  "bop_spectre_moon.option.smooth_holes": "穴のないテクスチャ",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "スポンジやハニカムなど、穴や泡だらけのブロックがなめらかに表示されます。",
+  "bop_spectre_moon.option.sound_limiter": "大きな音のリミッター",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "大きな音が鳴ると、モブと天候の音が数秒間小さくなり、その後元に戻ります。"
+}

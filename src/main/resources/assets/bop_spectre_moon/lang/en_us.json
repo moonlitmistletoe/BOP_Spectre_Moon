@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "QFS Accessibility",
+  "bop_spectre_moon.screen.button": "QFS Accessibility...",
+  "bop_spectre_moon.screen.reload_note": "Pressing Done reloads resources (can take a moment)",
+  "bop_spectre_moon.option.ectoplasm_blood": "Cyan Blood",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "Biomes O' Plenty blood and flesh show as cyan ectoplasm.",
+  "bop_spectre_moon.option.vanilla_mob_skins": "Vanilla Mob Skins",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "Cucurucho and Dark Cucurucho mobs use vanilla skins.",
+  "bop_spectre_moon.option.friendly_spiders": "Friendly Spiders",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "Spiders show as slimes with purple sparkles and sound like cats.",
+  "bop_spectre_moon.option.friendly_bugs": "Friendly Bugs",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "Bugs such as cockroaches, centipedes and silverfish show as small slimes and sound softer.",
+  "bop_spectre_moon.option.smooth_holes": "Hole-Free Textures",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "Sponges, honeycomb and other blocks covered in holes or bubbles show as smooth.",
+  "bop_spectre_moon.option.sound_limiter": "Loud Sound Limiter",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "Mob and weather sounds turn down for a few seconds when a loud sound plays, then rise back."
+}

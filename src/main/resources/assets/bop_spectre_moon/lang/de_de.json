@@ -1,0 +1,17 @@
+{
+  "bop_spectre_moon.screen.title": "QFS-Barrierefreiheit",
+  "bop_spectre_moon.screen.button": "QFS-Barrierefreiheit...",
+  "bop_spectre_moon.screen.reload_note": "Durch Drücken von Fertig werden die Ressourcen neu geladen (das kann einen Moment dauern)",
+  "bop_spectre_moon.option.ectoplasm_blood": "Cyanes Blut",
+  "bop_spectre_moon.option.ectoplasm_blood.tooltip": "Blut und Fleisch aus Biomes O' Plenty erscheinen als cyanfarbenes Ektoplasma.",
+  "bop_spectre_moon.option.vanilla_mob_skins": "Vanilla-Mob-Skins",
+  "bop_spectre_moon.option.vanilla_mob_skins.tooltip": "Cucurucho- und Dunkle-Cucurucho-Mobs verwenden Vanilla-Skins.",
+  "bop_spectre_moon.option.friendly_spiders": "Freundliche Spinnen",
+  "bop_spectre_moon.option.friendly_spiders.tooltip": "Spinnen erscheinen als Schleime mit violetten Funken und klingen wie Katzen.",
+  "bop_spectre_moon.option.friendly_bugs": "Freundliche Käfer",
+  "bop_spectre_moon.option.friendly_bugs.tooltip": "Insekten wie Kakerlaken, Hundertfüßer und Silberfischchen erscheinen als kleine Schleime und klingen leiser.",
+  "bop_spectre_moon.option.smooth_holes": "Texturen ohne Löcher",
+  "bop_spectre_moon.option.smooth_holes.tooltip": "Schwämme, Waben und andere Blöcke voller Löcher oder Blasen erscheinen glatt.",
+  "bop_spectre_moon.option.sound_limiter": "Lautstärkebegrenzer",
+  "bop_spectre_moon.option.sound_limiter.tooltip": "Mob- und Wettergeräusche werden für einige Sekunden leiser, wenn ein lautes Geräusch ertönt, und steigen dann wieder an."
+}

@@ -1,0 +1,88 @@
+{
+  "entity.silverfish.ambient": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.silverfish.hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.hurt_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.silverfish.death": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.death_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.silverfish.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.3
+      }
+    ]
+  },
+  "entity.endermite.ambient": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.5,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.endermite.hurt": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.hurt_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.endermite.death": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.death_small",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 1.0
+      }
+    ]
+  },
+  "entity.endermite.step": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "entity.slime.squish_small",
+        "type": "event",
+        "volume": 0.3
+      }
+    ]
+  }
+}
